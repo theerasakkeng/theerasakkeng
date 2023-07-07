@@ -1,5 +1,7 @@
 ### สวัสดีครับฟู่ 👋
 
+hi, i'm theerasak
+
 **languages and tools:**  
 
 <code><img height="20" src="https://github.com/theerasakkeng/theerasakkeng/blob/main/assets/html5.svg"></code>
