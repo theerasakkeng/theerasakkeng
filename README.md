@@ -6,7 +6,7 @@
 <code><img height="20" src="https://github.com/theerasakkeng/theerasakkeng/blob/main/assets/reactjs.svg"></code>
 <code><img height="20" src="https://github.com/theerasakkeng/theerasakkeng/blob/main/assets/nodejs.svg"></code>
 <code><img height="20" src="https://github.com/theerasakkeng/theerasakkeng/blob/main/assets/expressjs.svg"></code>
-<code><img height="20" src="https://github.com/theerasakkeng/theerasakkeng/blob/main/assets/expressjs.svg"></code>
+<code><img height="20" src="https://github.com/theerasakkeng/theerasakkeng/blob/main/assets/golang.svg"></code>
 <code><img height="20" src="https://github.com/theerasakkeng/theerasakkeng/blob/main/assets/git-scm.svg"></code>
 
 <!--
