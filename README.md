@@ -1,6 +1,7 @@
 ### สวัสดีครับฟู่ 👋
 
 hi, i'm theerasak
+- 🔭 I’m currently working on frontend developer
 
 **languages and tools:**  
 
