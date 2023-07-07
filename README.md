@@ -2,6 +2,9 @@
 
 **languages and tools:**  
 
+<code><img height="20" src="https://github.com/theerasakkeng/theerasakkeng/blob/main/assets/html5.svg"></code>
+<code><img height="20" src="https://github.com/theerasakkeng/theerasakkeng/blob/main/assets/css3.svg"></code>
+<code><img height="20" src="https://github.com/theerasakkeng/theerasakkeng/blob/main/assets/javascript.svg"></code>
 <code><img height="20" src="https://github.com/theerasakkeng/theerasakkeng/blob/main/assets/vuejs.svg"></code>
 <code><img height="20" src="https://github.com/theerasakkeng/theerasakkeng/blob/main/assets/reactjs.svg"></code>
 <code><img height="20" src="https://github.com/theerasakkeng/theerasakkeng/blob/main/assets/nodejs.svg"></code>
